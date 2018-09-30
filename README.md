@@ -7,6 +7,7 @@ Aceita strings.
 
 # Requerimentos
 metasploit
+
 Python 3
 
 # Para usar 
